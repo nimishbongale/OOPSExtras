@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 import java.util.Scanner;
-public class Largenos
+public class LargenoFactorial
 {
     public static void main(String args[])
     {
