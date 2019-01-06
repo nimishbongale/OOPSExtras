@@ -41,6 +41,6 @@ public class TimeConvertor {
         System.out.println("Enter the time in a 12hr format (HH:MM:SSAM or HH:MM:SSPM):");
        String s = scan.nextLine();
        String result = timeConversion(s);
-        System.out.println(result);
+        System.out.println("24hr format:"+result);
     }
 }
