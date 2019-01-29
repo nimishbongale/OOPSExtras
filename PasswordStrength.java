@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class PasswordStrength {
 
     // Complete the minimumNumber function below.
     static int minimumNumber(int n, String password) {
